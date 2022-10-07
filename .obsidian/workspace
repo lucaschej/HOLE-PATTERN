@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "2a16184791d878c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d5a4fc59705b2e",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f05aeaacab7e83e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce7814c81c514d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb72ba68f97dfc6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d65c1fb0f56366d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "918a52697ddb1c9a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377
+  },
+  "right": {
+    "id": "8c96ca3fa97b5862",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a51cd14eb6a8080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e207b484fc49b4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c5443e11bd7e50f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f2d5a4fc59705b2e",
+  "lastOpenFiles": [
+    "references/@Al-Tamimi2017a.md",
+    "Spatial sinusoidal temperature.md",
+    "Oscillating temperature.md",
+    "references/@Saeid2005.md",
+    "Space thermal cycling.md",
+    "SMcoPI films.md",
+    "Rectification magnitud.md",
+    "Pasted image 20220830103813.png",
+    "references/@zhangReversalThermalRectification2009.md",
+    "Space harsh environment.md"
+  ]
+}
